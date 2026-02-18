@@ -2,14 +2,18 @@
 
 I'm Bianca.
 
-Semantic structure. Human-readable URLs. No noise — at least not in my code.
-
-**Colorful · Curious · Creative · Reliable**
+From signmaker to the web.  
+From vinyl to viewport.  
+Zero noise. Built loud.
 
 ![dontdevpanic](screenshots/dontdevpanic-website.gif)
 
-I build privacy-first web tools that run locally in your browser - 
-no tracking, no data collection, just functionality and style.
+**Colorful · Curious · Creative · Reliable**
+
+Semantic structure. Human-readable URLs. No noise - at least not in my code.
+
+I build privacy-first websites and web tools that run locally in your browser.  
+No tracking, no data collection, just functionality and style.
 
 ...and yes — even WordPress.
 
@@ -26,30 +30,72 @@ Personal projects exploring web development fundamentals:
 ## My Philosophy
 
 **Learning by doing.**  
-Understanding every line of code I write.  
+No copy-paste without understanding.  
 Building my skills one project at a time.
 
-## Currently Working With
+## Currently Building With
 
-`HTML` · `CSS` · `JavaScript` · `GitHub Pages` · `WordPress`
+`HTML` · `CSS` · `GitHub Pages` · `WordPress` · `JavaScript`
+
 
 ---
-## Featured Projects
+# Featured Projects
 
-| | |
-|---|---|
-| [![HTML Entity Tool](screenshots/html-entity-encoder.jpg)](https://github.com/dontdevpanic/html-entity-encoder) | [![PunkRock Gadgets](screenshots/punkrock-gadgets-preview.jpg)](https://github.com/dontdevpanic/punkrock-gadgets) | 
-| **HTML Entity Encoder** | **PunkRock Gadgets** | 
-| Privacy-first text tool | 80s neon electronics shop | 
+## HTML Entity Encoder  
+Privacy-first text tool for safe HTML output.
+
+![HTML Entity Tool](screenshots/html-entity-encoder.jpg)
+
+- Encode special characters into HTML entities
+- 100% client-side (no data leaves your browser)
+- Accessible (WCAG AA)
+- Dark/light mode support
+
+**Live Demo**  
+https://dontdevpanic.github.io/html-entity-encoder/
+
+**Repository**  
+https://github.com/dontdevpanic/html-entity-encoder
 
 
-| | |
-|---|---|
-| [![PunkRock Gadgets](screenshots/gruene-genusswelt-preview.jpg)](https://link) | [![HTML Code Escaper](screenshots/html-code-escaper.jpg)](https://github.com/dontdevpanic/html-code-escaper) | 
-| **Grüne Genusswelt** | **HTML Code Escaper** | 
-| Web development course | Escape and unescape HTML entities |
 
 ---
 
+## Boston Void  
+Fictional American hardcore band — concept-driven one-pager.
 
+![Boston Void](screenshots/boston-void-hero.gif)
+
+- Strong visual identity
+- Custom layout & typography
+- Bold interaction design
+- “In your face” aesthetic
+
+**Live Demo**  
+https://dontdevpanic.github.io/boston-void/
+
+**Repository**  
+https://github.com/dontdevpanic/boston-void
+
+
+
+---
+
+## PunkRock Gadgets  
+Fictional 80s neon electronics shop.
+
+![PunkRock Gadgets](screenshots/punkrock-gadgets-preview.jpg)
+
+- Retro UI concept
+- Neon color system
+- Product grid & layout structure
+- Playful branding
+
+**Live Demo**  
+https://dontdevpanic.github.io/punkrock-gadgets/
+
+**Repository**  
+https://github.com/dontdevpanic/punkrock-gadgets
+
+---
 *Reliable, detail-oriented and always learning something new.*
