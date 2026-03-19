@@ -6,7 +6,24 @@ From signmaker to the web.
 From vinyl to viewport.  
 Zero noise. Built loud.
 
-![dontdevpanic](screenshots/dontdevpanic-website.gif)
+
+<!-- <a href="https://bianca-schlich.de" target="_blank">
+  <img src="screenshots/dontdevpanic-website.gif" alt="Bianca Schlich Portfolio & CV WordPress">
+</a> -->
+
+[![dontdevpanic](screenshots/dontdevpanic-website.gif "Bianca Schlich Portfolio & CV - WordPress")](https://bianca-schlich.de)
+
+[![Website](https://img.shields.io/badge/visit-website-000?style=for-the-badge)](https://dontdevpanic.github.io/)
+
+[![Visit Website](https://img.shields.io/badge/visit-website-steelblue?style=for-the-badge)](https://dontdevpanic.github.io/)
+
+[![Visit Website](https://img.shields.io/badge/visit-website-darkred?style=for-the-badge)](https://dontdevpanic.github.io/)
+
+<!-- 
+[![dontdevpanic](screenshots/dontdevpanic-website.gif)](https://bianca-schlich.de)
+
+
+![dontdevpanic](screenshots/dontdevpanic-website.gif) -->
 
 **Colorful · Curious · Creative · Reliable**
 
@@ -15,7 +32,7 @@ Semantic structure. Human-readable URLs. No noise - at least not in my code.
 I build privacy-first websites and web tools that run locally in your browser.  
 No tracking, no data collection, just functionality and style.
 
-...and yes — even WordPress.
+...and yes. Even WordPress.
 
 
 
@@ -41,61 +58,71 @@ Building my skills one project at a time.
 ---
 # Featured Projects
 
-## HTML Entity Encoder  
-Privacy-first text tool for safe HTML output.
+<p>
+  <a href="https://dontdevpanic.github.io/html-entity-encoder/" target="_blank">
+    <img src="screenshots/devpaniczone-html-css-js.webp" width="40%" align="left" style="margin-right: 2%;"/>
+  </a>
+</p>
 
-![HTML Entity Tool](screenshots/html-entity-encoder.jpg)
+### HTML Entity Encoder  
+Privacy-first tool to encode special characters for safe HTML output. 
 
-- Encode special characters into HTML entities
-- 100% client-side (no data leaves your browser)
-- Accessible (WCAG AA)
-- Dark/light mode support
+[![Live Demo](https://img.shields.io/badge/live-demo-000?style=for-the-badge&logo=github)](https://dontdevpanic.github.io/html-entity-encoder/) &nbsp; 
+[![Repo](https://img.shields.io/badge/repository-darkred?style=for-the-badge&logo=github)](https://github.com/dontdevpanic/html-entity-encoder) 
 
-**Live Demo**  
-https://dontdevpanic.github.io/html-entity-encoder/
+<br clear="left">
 
-**Repository**  
-https://github.com/dontdevpanic/html-entity-encoder
+---
 
+<p>
+  <a href="https://dontdevpanic.github.io/boston-void/" target="_blank">
+    <img src="screenshots/boston-void-hero.gif" width="40%" align="left" style="margin-right: 2%;"/>
+  </a>
+</p>
+
+### Boston Void  
+Fictional American hardcore band - concept-driven one-pager. 
+
+[![Live Demo](https://img.shields.io/badge/live-demo-000?style=for-the-badge&logo=github)](https://dontdevpanic.github.io/boston-void/) &nbsp; 
+[![Repo](https://img.shields.io/badge/repository-darkred?style=for-the-badge&logo=github)](https://github.com/dontdevpanic/boston-void) 
+
+<br clear="left">
 
 
 ---
 
-## Boston Void  
-Fictional American hardcore band — concept-driven one-pager.
+<p>
+  <a href="https://dontdevpanic.github.io/darkground-coffee/" target="_blank">
+    <img src="screenshots/darkground-coffe-2-preview.jpg" width="40%" align="left" style="margin-right: 2%;"/>
+  </a>
+</p>
 
-![Boston Void](screenshots/boston-void-hero.gif)
+### Darkground Coffee  
+Demo site - endless scroll loop with CSS animations, vanilla HTML/CSS/JS. 
 
-- Strong visual identity
-- Custom layout & typography
-- Bold interaction design
-- “In your face” aesthetic
+[![Live Demo](https://img.shields.io/badge/live-demo-000?style=for-the-badge&logo=github)](https://dontdevpanic.github.io/darkground-coffee/) &nbsp; 
+[![Repo](https://img.shields.io/badge/repository-darkred?style=for-the-badge&logo=github)](https://github.com/dontdevpanic/darkground-coffee) 
 
-**Live Demo**  
-https://dontdevpanic.github.io/boston-void/
-
-**Repository**  
-https://github.com/dontdevpanic/boston-void
-
-
+<br clear="left">
 
 ---
 
-## PunkRock Gadgets  
-Fictional 80s neon electronics shop.
+<p>
+  <a href="https://dontdevpanic.github.io/punkrock-gadgets/" target="_blank">
+    <img src="screenshots/punkrock-gadgets-preview.jpg" width="40%" align="left" style="margin-right: 2%;"/>
+  </a>
+</p>
 
-![PunkRock Gadgets](screenshots/punkrock-gadgets-preview.jpg)
+### PunkRock Gadgets  
+Fictional 80s neon electronics shop. 
 
-- Retro UI concept
-- Neon color system
-- Product grid & layout structure
-- Playful branding
+[![Live Demo](https://img.shields.io/badge/live-demo-000?style=for-the-badge&logo=github)](https://dontdevpanic.github.io/punkrock-gadgets/) &nbsp; 
+[![Repo](https://img.shields.io/badge/repository-darkred?style=for-the-badge&logo=github)](https://github.com/dontdevpanic/punkrock-gadgets) 
 
-**Live Demo**  
-https://dontdevpanic.github.io/punkrock-gadgets/
-
-**Repository**  
-https://github.com/dontdevpanic/punkrock-gadgets
+<br clear="left">
 
 ---
+---
+---
+
 *Reliable, detail-oriented and always learning something new.*
