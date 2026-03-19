@@ -46,7 +46,7 @@ Building my skills one project at a time.
 
 <p>
   <a href="https://dontdevpanic.github.io/html-entity-encoder/" target="_blank">
-    <img src="screenshots/devpaniczone-html-css-js.webp" width="40%" align="left" style="margin-right: 2%;"/>
+    <img src="screenshots/html-entity-encoder.jpg" width="40%" align="left" style="margin-right: 2%;"/>
   </a>
 </p>
 
