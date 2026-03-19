@@ -8,7 +8,7 @@ Zero noise. Built loud.
 
 [![dontdevpanic](screenshots/dontdevpanic-website.gif "Bianca Schlich Portfolio & CV - WordPress")](https://bianca-schlich.de)
 
-[![Website](https://img.shields.io/badge/visit-website-000?style=for-the-badge)](https://dontdevpanic.github.io/)
+[![Website](https://img.shields.io/badge/visit-website-000?style=for-the-badge)](https://bianca-schlich.de)
 
 
 **Colorful · Curious · Creative · Reliable**
