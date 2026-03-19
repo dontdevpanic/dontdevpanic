@@ -6,24 +6,10 @@ From signmaker to the web.
 From vinyl to viewport.  
 Zero noise. Built loud.
 
-
-<!-- <a href="https://bianca-schlich.de" target="_blank">
-  <img src="screenshots/dontdevpanic-website.gif" alt="Bianca Schlich Portfolio & CV WordPress">
-</a> -->
-
 [![dontdevpanic](screenshots/dontdevpanic-website.gif "Bianca Schlich Portfolio & CV - WordPress")](https://bianca-schlich.de)
 
 [![Website](https://img.shields.io/badge/visit-website-000?style=for-the-badge)](https://dontdevpanic.github.io/)
 
-[![Visit Website](https://img.shields.io/badge/visit-website-steelblue?style=for-the-badge)](https://dontdevpanic.github.io/)
-
-[![Visit Website](https://img.shields.io/badge/visit-website-darkred?style=for-the-badge)](https://dontdevpanic.github.io/)
-
-<!-- 
-[![dontdevpanic](screenshots/dontdevpanic-website.gif)](https://bianca-schlich.de)
-
-
-![dontdevpanic](screenshots/dontdevpanic-website.gif) -->
 
 **Colorful · Curious · Creative · Reliable**
 
